@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Ranjita Rai</h1><br><h3 align="center">A passionate web designer from Nepal</h3><br><br>- 🌱 I’m currently learning Javascript<br><br>- 💬 Ask me about Java, html, css and php<br><br>- 📫 How to reach me **ranjitarai350@gmail.com**<br>
+<h1 align="center">Hi 👋, I'm Ranjita Rai</h1><br><h3 align="center">A passionate web designer from Nepal</h3><br><br>- 🌱 I’m currently learning Javascript<br><br>- 💬 Ask me about Java, html, css and php<br><br>- 📫 How to reach me ranjitarai350@gmail.com<br>
 
 
 ## 🌐 Socials:
